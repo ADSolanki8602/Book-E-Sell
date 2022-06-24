@@ -11,11 +11,9 @@
 
 ## About The Project
 
-- The main purpose of this app is to provide food and clothes to needy people.
-- The donor can easily donate food and clothes after filling some necessary details.
-This app will contact nearby food and clothes collecting NGO and send them
-donor’s details. The NGO will collect donation and they will provide it to needy
-people 
+- This a online e-commerce website for selling books.
+- The frontend implementation is done using ReactJS. using reactjs to produce a beautiful and interactive design.
+- Some features include user registrattion, book searching, adding to cart, and book sorting.
 
 # Getting Started with Create React App
 
