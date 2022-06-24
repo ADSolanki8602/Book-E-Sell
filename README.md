@@ -13,7 +13,7 @@
 
 - This a online e-commerce website for selling books.
 - The frontend implementation is done using ReactJS. using reactjs to produce a beautiful and interactive design.
-- Some features include user registrattion, book searching, adding to cart, and book sorting.
+- Some features include user registration, book searching, adding to cart, and book sorting.
 
 # Getting Started with Create React App
 
@@ -73,7 +73,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 - [C#]
 - [ASP.NET]
 - [SWAGGER API]
-- [VISUAL STUDIO]
+- [POSTGRE SQL]
 ## Contact
 
 - [@ADSolanki8602](https://github.com/ADSolanki8602)
